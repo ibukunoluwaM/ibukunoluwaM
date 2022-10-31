@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm currently getting familiar with HTML, CSS and JavaScript. I always very passionate and interested in learning new things especially when tech-related. i'm very open to new opportunities and learning experiences.
+I'm currently getting familiar with HTML, CSS and JavaScript. I'm always very passionate and interested in learning new things especially when tech-related. i'm very open to new opportunities and learning experiences.
 
 
 ## 🛠 Skills
